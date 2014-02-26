@@ -14,3 +14,5 @@ django-ckeditor.sublime-project
 *.egg
 pep8.txt
 coverage.xml
+db.sqlite3
+.tox
